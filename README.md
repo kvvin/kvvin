@@ -13,6 +13,7 @@ I'm Kevin Manjooran, and I'm passionate about Game development and mobile app de
 - Java
 - Android Studio
 - HTML
+- JavaScript
 
 ## 🚀 Projects
 
