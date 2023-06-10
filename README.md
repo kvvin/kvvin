@@ -4,7 +4,7 @@
 
 ## Hello, World! 👋
 
-I'm Kevin Manjooran, and I'm passionate about Game development and mobile app development. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and other cool stuff I've been working on.
+I'm Kevin Manjooran, and I'm passionate about Web development, Game development and Mobile app development. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and other cool stuff I've been working on.
 
 ## 🌟 Key Skills
 
