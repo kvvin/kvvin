@@ -47,8 +47,3 @@ Feel free to reach out to me if you have any questions, suggestions, or if you'd
 ## 👀 Statistics
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kvvin&count_private=true&show_icons=true&theme=dark)](https://github.com/kvvin)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kvvin)](https://github.com/ryo-ma/kvvin)
-
