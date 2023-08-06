@@ -37,10 +37,17 @@ Description: Created a visually captivating 3D endless runner game using Unity, 
 
 GitHub Repository: [Tribal Run](https://github.com/kvvin/Tribal-Run-game-physics-project)
 
+### Project 4
+
+Description: In this project, I led a team of four highly motivated individuals to design and develop a user-friendly hotel website that offers seamless data management and control. Our primary goal was to create an intuitive and visually appealing platform to enhance the overall user experience for potential guests.
+
+GitHub Repository: [AccuStay](https://github.com/kvvin/Hotel-Management-System)
+
 ## 🌐 Connect with Me
 
-- GitHub: [GitHub.com/kvvin](https://github.com/kvvin)
-- LinkedIn: [LinkedIn.com/in/kevin-thomas-634483150/>](https://linkedin.com/in/kevin-thomas-634483150/)
+- GitHub: [kvvin](https://github.com/kvvin)
+- LinkedIn: [Kevin Thomas](https://linkedin.com/in/kevin-thomas-634483150/)
+- Leetcode: [kevinthomas](https://leetcode.com/kevinthomastm2002/)
 
 Feel free to reach out to me if you have any questions, suggestions, or if you'd like to collaborate on something exciting!
 
