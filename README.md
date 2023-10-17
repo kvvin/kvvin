@@ -47,7 +47,7 @@ GitHub Repository: [AccuStay](https://github.com/kvvin/Hotel-Management-System)
 
 - GitHub: [kvvin](https://github.com/kvvin)
 - LinkedIn: [Kevin Thomas](https://linkedin.com/in/kevin-thomas-634483150/)
-- Leetcode: [kevinthomas](https://leetcode.com/kevinthomastm2002/)
+- Leetcode: [kevinthomas](https://leetcode.com/brisinger/)
 
 Feel free to reach out to me if you have any questions, suggestions, or if you'd like to collaborate on something exciting!
 
