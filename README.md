@@ -11,7 +11,6 @@ I'm Kevin Manjooran, and I'm passionate about Web development, Game development 
 - C#
 - Unity
 - Java
-- Android Studio
 - HTML
 - JavaScript
 
@@ -21,9 +20,9 @@ Here are some of the projects I've worked on:
 
 ### Project 1
 
-Description: Single player 2D carrom game with AI opponent, made using Unity.
+Description: In this project, I led a team of four highly motivated individuals to design and develop a user-friendly hotel website that offers seamless data management and control. Our primary goal was to create an intuitive and visually appealing platform to enhance the overall user experience for potential guests.
 
-GitHub Repository: [Carroms2D](https://github.com/kvvin/carroms2D.git)
+GitHub Repository: [AccuStay](https://github.com/kvvin/Hotel-Management-System)
 
 ### Project 2
 
@@ -33,15 +32,15 @@ GitHub Repository: [Meteor Crush](https://github.com/Aakash2707/BulletProof.git)
 
 ### Project 3
 
-Description: Created a visually captivating 3D endless runner game using Unity, Photoshop, and C#. Developed immersive environments, challenging obstacles, and smooth gameplay mechanics to deliver an unforgettable gaming experience.
+Description: Single player 2D carrom game with AI opponent, made using Unity.
 
-GitHub Repository: [Tribal Run](https://github.com/kvvin/Tribal-Run-game-physics-project)
+GitHub Repository: [Carroms2D](https://github.com/kvvin/carroms2D.git)
 
 ### Project 4
 
-Description: In this project, I led a team of four highly motivated individuals to design and develop a user-friendly hotel website that offers seamless data management and control. Our primary goal was to create an intuitive and visually appealing platform to enhance the overall user experience for potential guests.
+Description: Created a visually captivating 3D endless runner game using Unity, Photoshop, and C#. Developed immersive environments, challenging obstacles, and smooth gameplay mechanics to deliver an unforgettable gaming experience.
 
-GitHub Repository: [AccuStay](https://github.com/kvvin/Hotel-Management-System)
+GitHub Repository: [Tribal Run](https://github.com/kvvin/Tribal-Run-game-physics-project)
 
 ## 🌐 Connect with Me
 
@@ -50,6 +49,3 @@ GitHub Repository: [AccuStay](https://github.com/kvvin/Hotel-Management-System)
 
 Feel free to reach out to me if you have any questions, suggestions, or if you'd like to collaborate on something exciting!
 
-## 👀 Statistics
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kvvin&count_private=true&show_icons=true&theme=dark)](https://github.com/kvvin)
