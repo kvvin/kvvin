@@ -4,7 +4,7 @@
 
 ## Hello, World! 👋
 
-I'm Kevin Manjooran, and I'm passionate about Web development, Game development and Mobile app development. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and other cool stuff I've been working on.
+I'm Kevin Manjooran, and I'm passionate about Web development and Game development. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and other cool stuff I've been working on.
 
 ## 🌟 Key Skills
 
@@ -12,7 +12,10 @@ I'm Kevin Manjooran, and I'm passionate about Web development, Game development 
 - Unity
 - Java
 - HTML
+- CSS
 - JavaScript
+- Git
+- Cloud Computing
 
 ## 🚀 Projects
 
